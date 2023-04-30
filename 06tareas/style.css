@@ -1,0 +1,29 @@
+body{
+    background-color: #017abf;
+    color: whitesmoke;
+    padding: 10px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.container{
+    background-color: #e3e5e6;
+    color: black;
+    
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.white-card{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.bold{
+    font-weight: bold;
+}
+
+.font-grey{
+    color: gray;
+}

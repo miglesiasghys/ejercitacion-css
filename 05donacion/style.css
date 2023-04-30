@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    background-color: #eae7fb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #eae7fb;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+.text-presentation{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+    margin-top: 50px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    border: 1px solid darkgrey;
+    margin: 0px 8px;
+    padding: 10px;
+    border-radius: 5px;
+    color: darkgray;
+}
+
+.violeta{
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+}
+
+.continue{
+    margin: 30px 50px 40px;
+    padding: 0px 90px;
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+
+}
